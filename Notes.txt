@@ -1,0 +1,5 @@
+Lambda are object reference
+
+Map - 2 Reduce
+First Reduce - One produces Optional
+Second Reduce Option Binary - Identity
